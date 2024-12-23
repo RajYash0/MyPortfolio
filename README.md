@@ -38,9 +38,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 For any inquiries, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Twitter**: [@YourHandle](https://twitter.com/your-handle)
+- **Email**: [yashhraj3@gmail.com](mailto: yashhraj3@gmail.com)
 
 ---
 
