@@ -38,7 +38,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 For any inquiries, feel free to reach out:
 
-- **Email**: [Click here](mailto: yashhraj3@gmail.com)
+- **Email**: [Click here](mailto:yashhraj3@gmail.com)
 
 ---
 
